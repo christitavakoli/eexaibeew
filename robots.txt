@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shiengiepi.thiagoroliveira.com/sitemap.xml
